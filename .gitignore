@@ -72,3 +72,29 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+
+# addtional files
+*.slo
+*.sln
+*.lo
+*.o
+*.obj
+*.gch
+*.pch
+*.so
+*.dylib
+*.dll
+*.mod
+*.lai
+*.la
+*.a
+*.lib
+*.exe
+*.out
+*.app
+*.log
+*.pdb
+Intermediate/*
+Saved/*
