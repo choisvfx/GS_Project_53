@@ -23,6 +23,11 @@
 		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "ThreeDGaussians",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/410c8105b3aa41d38ab68660295bd7f3"
 		}
 	]
 }
