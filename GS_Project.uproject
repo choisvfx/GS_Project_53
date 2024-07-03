@@ -28,6 +28,14 @@
 			"Name": "ThreeDGaussians",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/410c8105b3aa41d38ab68660295bd7f3"
+		},
+		{
+			"Name": "XV3dGS",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d186799254dc405f9bde7a2a81b34733",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
